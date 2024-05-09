@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/homepage/static/css/main.15684468.css",
+    "main.js": "/homepage/static/js/main.3a4577be.js",
+    "static/media/Mahjong_background.jpg": "/homepage/static/media/Mahjong_background.108baf37e533b655b961.jpg",
+    "index.html": "/homepage/index.html",
+    "main.15684468.css.map": "/homepage/static/css/main.15684468.css.map",
+    "main.3a4577be.js.map": "/homepage/static/js/main.3a4577be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15684468.css",
+    "static/js/main.3a4577be.js"
+  ]
+}
